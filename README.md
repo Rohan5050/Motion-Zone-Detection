@@ -1,6 +1,8 @@
 # Motion-Zone-Detection
 
-[!Watch Video](https://res.cloudinary.com/dozk61p5d/video/upload/v1786712970/fixed_zones_output_1_closc4.mp4)
+
+ [!Watch Video](https://github.com/user-attachments/assets/6e4dd77f-2ec8-453e-9945-66c8f6d1cae3)
+
 
 # Overview
 Motion-Zone-Detection uses Background Subtraction and Yolo to detect and track moving objects in a user defined specific zone
