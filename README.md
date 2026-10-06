@@ -1,6 +1,9 @@
 # Motion-Zone-Detection
 
-Background Subtraction
+[!Watch Video](https://res.cloudinary.com/dozk61p5d/video/upload/v1786712970/fixed_zones_output_1_closc4.mp4)
+
+# Overview
+Motion-Zone-Detection uses Background Subtraction and Yolo to detect and track moving objects in a user defined specific zone
 
 Background subtraction is a common and widely used technique for generating a foreground mask (namely, a binary image containing the pixels belonging to moving objects in the scene) by using static cameras
 
